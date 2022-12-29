@@ -1,0 +1,2 @@
+#Date|Toot|Tags|Picture With Path|Picture Description
+2022-12-29|This is my first toot|#cool #RetroComputing|~/Pictures/SamplePic.jpg|This is an example picture
